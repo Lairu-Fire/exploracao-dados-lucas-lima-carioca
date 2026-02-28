@@ -10,6 +10,7 @@ Microdados públicos do Exame Nacional de Avaliação da Formação Médica (Ena
 * Número de registros: 39794
 * Colunas: 27
 
+Foi feito a exploração descritiva dos dados relevantes coletados, gerando visualizações como histobramas e boxplots. Também comentando sobre os padrões e possíveis irregularidades encontradas nos dados.
 
 ## Significado das variáveis
 
